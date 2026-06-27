@@ -1,1 +1,28 @@
-
+{
+  "response": [
+    {
+      "maintainer": "Sreepad Marat",
+      "currently_maintained": true,
+      "oem": "OnePlus",
+      "device": "Nord CE 3 Lite 5G",
+      "filename": "",
+      "download": "",
+      "timestamp": ,
+      "md5": "",
+      "sha256": "",
+      "size": ,
+      "version": "11.8",
+      "buildtype": "user",
+      "forum": "",
+      "firmware": "",
+      "paypal": "",
+      "github": "sreepadmarat",
+      "initial_installation_images": [
+        "boot",
+        "dtbo",
+        "vendor_boot"
+      ],
+      "extra_images": []
+    }
+  ]
+}
